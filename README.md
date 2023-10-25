@@ -1,0 +1,1 @@
+This is a frontend of Student Management System Project using (Vite + React).
